@@ -1,5 +1,5 @@
 # BullsAndCows
-Bulls and cows game
+Bulls and cows game coded in assembly emulator 8086
 
 Stages of the game:
 
